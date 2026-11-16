@@ -1,17 +1,3 @@
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-fantasy 
-Conversations
-Some messages in Trash or Spam match your search. View messages
-jbosak @gmail.com. Press tab to insert.
-2026-27 Week 9 - Fantasy Data.md
-100%
-
-Markdown
-
-Preview
 2026-27 Week 9 Recap === FANTASY DATA: The Fantasy Justice League | Week 9 results, Week 10 preview | My team: Joel's Boss Team ===
 
 WEEK 9 RESULTS (my matchup first)
@@ -52,4 +38,3 @@ Sat, 11/7: Joel's Boss Team added Jordyn Tyson (NO WR) from FA; Joel's Boss Team
 
 === END DATA ===
 
-Displaying 2026-27 Week 9 - Fantasy Data.md.
